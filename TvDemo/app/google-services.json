@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "270432785526",
+    "firebase_url": "https://bandhu-57881.firebaseio.com",
+    "project_id": "bandhu-57881",
+    "storage_bucket": "bandhu-57881.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270432785526:android:750ffa7be365d79b",
+        "android_client_info": {
+          "package_name": "com.dbot5.application.bandhu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270432785526-bdr0ol8nljukdgkjhgbfu91tupj3gnhh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dbot5.application.bandhu",
+            "certificate_hash": "eff6b5e13e5158dc81fb4cca99d3019052057117"
+          }
+        },
+        {
+          "client_id": "270432785526-k9jrdkousoc82f3i4kb8ifobj72plpnb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "270432785526-rgprk7vupcslj1vnsi36849bqnkrciua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJf-7FY42XB3DS-STUWXchhhnYeL8ySc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270432785526-k9jrdkousoc82f3i4kb8ifobj72plpnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270432785526:android:509637a8d9ef8e75",
+        "android_client_info": {
+          "package_name": "com.rajhack4.homeautomation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270432785526-7kabiv39ktkd9stdormaguasvmnv9mur.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rajhack4.homeautomation",
+            "certificate_hash": "eff6b5e13e5158dc81fb4cca99d3019052057117"
+          }
+        },
+        {
+          "client_id": "270432785526-k9jrdkousoc82f3i4kb8ifobj72plpnb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "270432785526-rgprk7vupcslj1vnsi36849bqnkrciua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHJf-7FY42XB3DS-STUWXchhhnYeL8ySc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270432785526-k9jrdkousoc82f3i4kb8ifobj72plpnb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
