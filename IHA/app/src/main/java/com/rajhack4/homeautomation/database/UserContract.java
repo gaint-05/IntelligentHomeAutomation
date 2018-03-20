@@ -4,13 +4,10 @@ import android.content.ContentResolver;
 import android.net.Uri;
 import android.provider.BaseColumns;
 
-/**
- * Created by ojas on 09-03-2018.
- */
 
 public class UserContract {
 
-    public static final String CONTENT_AUTHORITY = "com.ojasgulati.tvdemo.database";
+    public static final String CONTENT_AUTHORITY = "com.rajhack4.homeautomation.database";
     public static final Uri BASE_CONTENT_URI = Uri.parse("content://" + CONTENT_AUTHORITY);
     public static final String PATH_USER = "user";
 
