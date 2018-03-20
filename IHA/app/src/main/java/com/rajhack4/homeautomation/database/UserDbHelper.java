@@ -6,9 +6,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 
 import com.rajhack4.homeautomation.database.UserContract.UserEntry;
 
-/**
- * Created by ojas on 09-03-2018.
- */
+
 
 public class UserDbHelper extends SQLiteOpenHelper{
 
